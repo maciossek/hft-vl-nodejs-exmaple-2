@@ -1,6 +1,6 @@
-#Websocket example
+# Websocket example
 
-##Dependecies
+## Dependecies
 * `nodemon` needs to be installed globally
 
 ## Scripts
